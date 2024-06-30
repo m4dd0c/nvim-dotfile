@@ -1,5 +1,5 @@
 # nvim-dotfile
-
+**Modified + lite version of [carftzdog-dotfiles](https://github.com/craftzdog/dotfiles-public)**
 ## Contents:
 - Custom additional config
 
@@ -11,5 +11,5 @@
 - a [NerdFont](https://github.com/ryanoasis/nerd-fonts)
 - C compiler for `nvim-treesitter`
 - for `telescope.nvim`
-  - **Live grep:** (ripgrep)[https://github.com/BurntSushi/ripgrep]
-  - **Find Files:** (fd)[https://github.com/sharkdp/fd]
+  - **Live grep:** [ripgrep](https://github.com/BurntSushi/ripgrep)
+  - **Find Files:** [fd](https://github.com/sharkdp/fd)
